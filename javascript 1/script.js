@@ -14,4 +14,12 @@ else{
 }
 
  console.log(" this is your number"+a)
- document.title("hey I am good")
+ document.title("hey I am good") 
+
+
+
+const accountId=123344
+let accountEmail = "gulshan@gmail.com" 
+let accountPassword ="123344" 
+let accountCity = "Bhopal"
+console.table ([accountEmail, accountPassword, accountCity]);

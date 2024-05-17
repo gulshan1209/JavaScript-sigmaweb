@@ -22,8 +22,3 @@ console.log(c.slice(1,4))
 
 console.log(c.replace("sh","44"))
 console.log(c.concat(a,"needa","rahul","priya"))
- 
-let accountEmail = "gulshan@gmail.com" 
-let accountPassword ="123344" 
-let accountCity = "Bhopal"
-console.table ([accountEmail, accountPassword, accountCity]);
