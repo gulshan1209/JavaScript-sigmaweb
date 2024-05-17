@@ -25,5 +25,5 @@ console.log(c.concat(a,"needa","rahul","priya"))
  
 let accountEmail = "gulshan@gmail.com" 
 let accountPassword ="123344" 
- 
-console.table ([accountEmail, accountPassword]);
+let accountCity = "Bhopal"
+console.table ([accountEmail, accountPassword, accountCity]);
